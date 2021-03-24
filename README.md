@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **Naveen**
+Submitted by: **Naveen Kumanan**
 
-Time spent: **2.5** hours spent in total
+Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/sleepy-probable-shawl)
 
 ## Required Functionality
 
@@ -54,8 +54,7 @@ through this easily. Overall the pre-work was interesting and I enjoyed working 
 [I am now thinking about how it works to make this webpage public: how to make it so that people can find this game through google and other web browsers.
 Additionally I am thinking about what it would take to be able to have thousands of people around the world on this webpage on the same time, that is I want
 to learn the details behind hosting this webpage on a server and what is required to do it successfully. Furthermore, I am curious about other software I have
-heard about like Node, AngularJS, and Bootstrap, what is thier role in web development and how do they work.
-]
+heard about like Node, AngularJS, and Bootstrap, what is thier role in web development and how do they work.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [All the additional features are interesting, I would have liked to implement all of them, but if I only had a few more hours I think I would try to implement additional features 3,4 and 5 first (random secret, 3 strikes and adding images) 
