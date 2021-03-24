@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](http://g.recordit.co/pVYn1smCo4.gif)(http://g.recordit.co/tEii22j6Y3.gif)
+![](http://g.recordit.co/Yx9FaVyYi8.gif)(http://g.recordit.co/tEii22j6Y3.gif)
 
 
 ## Reflection Questions
